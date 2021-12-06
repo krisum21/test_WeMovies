@@ -1,2 +1,2 @@
 # test_WeMovies
-pour test WeMovies
+pour test WeMovies (partiel)
